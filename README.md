@@ -1,10 +1,10 @@
 # ETH-AVAX-BuildingOnAvalanche
 
-##DegenToken ERC-20 Token Smart Contract
+#DegenToken ERC-20 Token Smart Contract
 This Ethereum smart contract implements an ERC-20 token named "Degen" with the symbol "DGN." It extends the functionalities of the OpenZeppelin ERC-20 and Ownable contracts.
 
-##Contract Features:
-###Minting New Tokens
+#Contract Features:
+##Minting New Tokens
 The contract provides a mint function that allows the owner to create and distribute new tokens to specific addresses.
 ###Redeeming Tokens
 Players can redeem tokens for in-game items using the redeem function. The choices for redemption are simplified for demonstration purposes. Players must have a sufficient balance, and the specified number of tokens is burned.
